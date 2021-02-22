@@ -1,0 +1,107 @@
+--2020-10-30 10:35:59--  https://quay.io/repository/external_storage/nfs-client-provisioner?tag=latest
+Resolving quay.io (quay.io)... 52.0.92.170, 54.211.185.136, 54.210.241.179, ...
+Connecting to quay.io (quay.io)|52.0.92.170|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|54.211.185.136|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|54.210.241.179|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|34.200.178.190|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|3.225.137.144|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|54.173.177.143|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|34.232.39.178|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|50.16.44.198|:443... failed: Connection timed out.
+Retrying.
+
+--2020-10-30 10:53:28--  (try: 2)  https://quay.io/repository/external_storage/nfs-client-provisioner?tag=latest
+Connecting to quay.io (quay.io)|52.0.92.170|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|54.211.185.136|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|54.210.241.179|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|34.200.178.190|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|3.225.137.144|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|54.173.177.143|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|34.232.39.178|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|50.16.44.198|:443... failed: Connection timed out.
+Retrying.
+
+--2020-10-30 11:10:58--  (try: 3)  https://quay.io/repository/external_storage/nfs-client-provisioner?tag=latest
+Connecting to quay.io (quay.io)|52.0.92.170|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|54.211.185.136|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|54.210.241.179|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|34.200.178.190|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|3.225.137.144|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|54.173.177.143|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|34.232.39.178|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|50.16.44.198|:443... failed: Connection timed out.
+Retrying.
+
+--2020-10-30 11:28:30--  (try: 4)  https://quay.io/repository/external_storage/nfs-client-provisioner?tag=latest
+Connecting to quay.io (quay.io)|52.0.92.170|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|54.211.185.136|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|54.210.241.179|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|34.200.178.190|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|3.225.137.144|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|54.173.177.143|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|34.232.39.178|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|50.16.44.198|:443... failed: Connection timed out.
+Retrying.
+
+--2020-10-30 11:46:01--  (try: 5)  https://quay.io/repository/external_storage/nfs-client-provisioner?tag=latest
+Connecting to quay.io (quay.io)|52.0.92.170|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|54.211.185.136|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|54.210.241.179|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|34.200.178.190|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|3.225.137.144|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|54.173.177.143|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|34.232.39.178|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|50.16.44.198|:443... failed: Connection timed out.
+Retrying.
+
+--2020-10-30 12:03:35--  (try: 6)  https://quay.io/repository/external_storage/nfs-client-provisioner?tag=latest
+Connecting to quay.io (quay.io)|52.0.92.170|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|54.211.185.136|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|54.210.241.179|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|34.200.178.190|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|3.225.137.144|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|54.173.177.143|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|34.232.39.178|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|50.16.44.198|:443... failed: Connection timed out.
+Retrying.
+
+--2020-10-30 12:21:08--  (try: 7)  https://quay.io/repository/external_storage/nfs-client-provisioner?tag=latest
+Connecting to quay.io (quay.io)|52.0.92.170|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|54.211.185.136|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|54.210.241.179|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|34.200.178.190|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|3.225.137.144|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|54.173.177.143|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|34.232.39.178|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|50.16.44.198|:443... failed: Connection timed out.
+Retrying.
+
+--2020-10-30 12:38:42--  (try: 8)  https://quay.io/repository/external_storage/nfs-client-provisioner?tag=latest
+Connecting to quay.io (quay.io)|52.0.92.170|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|54.211.185.136|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|54.210.241.179|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|34.200.178.190|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|3.225.137.144|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|54.173.177.143|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|34.232.39.178|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|50.16.44.198|:443... failed: Connection timed out.
+Retrying.
+
+--2020-10-30 12:56:18--  (try: 9)  https://quay.io/repository/external_storage/nfs-client-provisioner?tag=latest
+Connecting to quay.io (quay.io)|52.0.92.170|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|54.211.185.136|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|54.210.241.179|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|34.200.178.190|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|3.225.137.144|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|54.173.177.143|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|34.232.39.178|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|50.16.44.198|:443... failed: Connection timed out.
+Retrying.
+
+--2020-10-30 13:13:54--  (try:10)  https://quay.io/repository/external_storage/nfs-client-provisioner?tag=latest
+Connecting to quay.io (quay.io)|52.0.92.170|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|54.211.185.136|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|54.210.241.179|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|34.200.178.190|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|3.225.137.144|:443... failed: Connection timed out.
+Connecting to quay.io (quay.io)|54.173.177.143|:443... 
